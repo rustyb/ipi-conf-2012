@@ -6,11 +6,11 @@ permalink: /pages/programme
 
 ## IPI Conference Programme
 
-### REGISTRATION
+### Registration
 
 * 9:00	Delegates Registration
 
-### OPENING ADDRESS
+### Opening Address
 
 * 09:30	Welcome: IPI President
 
@@ -20,7 +20,7 @@ permalink: /pages/programme
 
 * 10:45	Coffee
 
-### SESSION ONE:	INTERNATIONAL APPROACHES TO RETAIL REGENERATION AND RETAIL MARKET DEMANDS
+### Session One:	International Approaches to Retail Regeneration and Retail Market Demands
 
 *Chair of Morning Session, Mary Crowley, Vice President IPI*
 
@@ -36,7 +36,7 @@ permalink: /pages/programme
 
 * 13:00	Lunch 
 
-### SESSION TWO: THE ROLE OF PLANNERS IN UNLOCKING MAIN STREETS IN IRELAND
+### Session Two: The Role of Planners in Unlocking Main Streets in Ireland
  
 *Chair of Afternoon Session, Darragh McGonigle, Treasurer IPI*
 
@@ -48,4 +48,4 @@ permalink: /pages/programme
 
 * 15:20	Gerry Sheeran, Acting Director of Services, Limerick County Council: Economic Development; the Planner's role
 
-* 15:45		Questions and Answers 
+* 15:45		Questions and Answers

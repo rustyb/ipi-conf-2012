@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+{% assign base = site.baseurl %}
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
@@ -18,11 +18,11 @@
   -->
   
   <!-- Included CSS Files (Compressed) -->
-  <link rel="stylesheet" href="/foundation/stylesheets/foundation.min.css">
-  <link rel="stylesheet" href="/foundation/stylesheets/app.css">
-<link rel="stylesheet" href="/foundation/custom.css">
+  <link rel="stylesheet" href="{{base}}/foundation/stylesheets/foundation.min.css">
+  <link rel="stylesheet" href="{{base}}/foundation/stylesheets/app.css">
+<link rel="stylesheet" href="{{base}}/foundation/custom.css">
 
-  <script src="/foundation/javascripts/modernizr.foundation.js"></script>
+  <script src="{{base}}/foundation/javascripts/modernizr.foundation.js"></script>
 
   <!-- IE Fix for HTML5 Tags -->
   <!--[if lt IE 9]>
@@ -31,12 +31,12 @@
 
 </head>
 <body>
-<div id="wrapper" style="background-image:url(/img/bg.png);">
+<div id="wrapper" style="background-image:url({{base}}/img/bg.png);">
 	
 
   <div class="row">
     <div class="twelve columns">
-	  <img src="/img/header.png" />
+	  <img src="{{base}}/img/header.png" />
 	<hr />
      <!-- <h2>IPI Autumn Planning Conference 2012</h2>
       <p>5<sup>th</sup> October 2012 <strong>Gibson Hotel, Dublin</strong> register now.</p>
@@ -148,9 +148,9 @@
 </div>
 </div>
   <!-- Included JS Files (Compressed) -->
-  <script src="/foundation/javascripts/foundation.min.js"></script>
+  <script src="{{base}}/foundation/javascripts/foundation.min.js"></script>
   
   <!-- Initialize JS Plugins -->
-  <script src="/foundation/javascripts/app.js"></script>
+  <script src="{{base}}/foundation/javascripts/app.js"></script>
 </body>
 </html>

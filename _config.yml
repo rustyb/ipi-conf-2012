@@ -7,4 +7,4 @@ exclude:
 #rdiscount:
  # extensions: [smart]
 permalink: pretty
-baseurl: /ipi-conf-2012
+baseurl: /ipi-conf-2012/

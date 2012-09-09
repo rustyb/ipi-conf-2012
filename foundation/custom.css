@@ -1,6 +1,11 @@
 .speakers {
   list-style:none;
 }
+
+.speakers a {
+  font-size:2em;
+  font-weight:bold;
+}
 #footer {
 	  background: #ebebeb 0 100% ;
 	  margin-top: 50px;
